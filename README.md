@@ -38,18 +38,16 @@
 ## 👋 About Me
 
 - 🎓 **Estudiante de Ingeniería de Sistemas** (Perú)
-- 💼 Desarrollo en el ecosistema **Promolider** → **Aula Virtual (VCR)**: app móvil **Flutter** + API **Laravel/MySQL**
-- 💬 Chat en **tiempo real** con WebSockets, notificaciones push, exámenes, logros e insignias
+- 💼 **Desarrollador en Promolider** — trabajo en el equipo de producto construyendo el **Aula Virtual (VCR)**: una app móvil en **Flutter** con backend **Laravel/MySQL**, con chat en tiempo real, notificaciones, exámenes y logros
 - 🌱 Me apasiona la tecnología, el desarrollo web y la **Inteligencia Artificial**
 - 🤝 Me gusta trabajar en equipo y compartir lo que aprendo
 
 <br>
 
-## 🚀 Projects
+## 🚀 Proyectos Personales
 
 | Project | Description | Stack |
 |---|---|---|
-| **Aula Virtual VCR** | App movil + backend con chat en tiempo real, examenes, logros y marketplace | Flutter · Laravel · MySQL |
 | **GestionFinanciero** | Sistema de gestion financiera personal | JavaScript |
 | **Sistema-Gestion-Estudiantes** | Sistema de gestion de estudiantes | HTML |
 
