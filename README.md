@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/josthyndiaz45-sketch/snk/output/github-contribution-grid-snake.svg" alt="Animacion del gusano sobre el grafico de contribuciones" />
+  <img src="https://raw.githubusercontent.com/josthyndiaz45-sketch/snk/output/dist/github-contribution-grid-snake.svg" alt="Animacion del gusano sobre el grafico de contribuciones" />
 </div>
 
 <br>
