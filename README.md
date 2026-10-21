@@ -3,8 +3,14 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=60&text=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas" alt="Estudiante de Ingenieria de Sistemas" />
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/josthyndiaz45-sketch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Practicante+Full-Stack;Desarrollo+con+ayuda+de+la+IA;Siempre+aprendiendo+cosas+nuevas" alt="Josthyn Diaz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Practicante+Full-Stack;Siempre+aprendiendo+cosas+nuevas;Construyendo+mis+propios+proyectos" alt="Josthyn Diaz" />
   </a>
 </div>
 
@@ -20,7 +26,6 @@
 
 - 🎓 **Estudiante de Ingeniería de Sistemas** (Perú)
 - 💼 Practicante de desarrollo **Full-Stack**
-- 🤖 Uso la **Inteligencia Artificial** a diario para programar y aprender más rápido
 - 🌱 Me apasiona la tecnología, el desarrollo web y la **Inteligencia Artificial**
 - 🤝 Me gusta trabajar en equipo y compartir lo que aprendo
 
@@ -32,6 +37,7 @@
 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
