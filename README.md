@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/josthyndiaz45-sketch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Desarrollador+Full-Stack%3A+Flutter+%26+Python;Apasionado+por+la+Inteligencia+Artificial;Siempre+aprendiendo+cosas+nuevas" alt="Josthyn Diaz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Practicante+Full-Stack;Desarrollo+con+ayuda+de+la+IA;Siempre+aprendiendo+cosas+nuevas" alt="Josthyn Diaz" />
   </a>
 </div>
 
@@ -19,7 +19,8 @@
 ## 👋 Sobre mí
 
 - 🎓 **Estudiante de Ingeniería de Sistemas** (Perú)
-- 💻 Me gusta construir **aplicaciones móviles y web** con Flutter, Python y MySQL
+- 💼 Practicante de desarrollo **Full-Stack**
+- 🤖 Uso la **Inteligencia Artificial** a diario para programar y aprender más rápido
 - 🌱 Me apasiona la tecnología, el desarrollo web y la **Inteligencia Artificial**
 - 🤝 Me gusta trabajar en equipo y compartir lo que aprendo
 
