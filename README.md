@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/josthyndiaz45-sketch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas.+Per%C3%BA;Desarrollador+Flutter+%26+Laravel;Apasionado+por+la+Inteligencia+Artificial" alt="Josthyn Diaz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Desarrollador+Full-Stack%3A+Flutter+%26+Laravel;Apasionado+por+la+Inteligencia+Artificial;Desarrollador+de+software+en+Promolider" alt="Josthyn Diaz" />
   </a>
 </div>
 
