@@ -2,15 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200" alt="Josthyn Diaz" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=60&text=Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas" alt="Estudiante de Ingenieria de Sistemas" />
-</div>
-
 <br>
 
 <div align="center">
   <a href="https://github.com/josthyndiaz45-sketch">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Practicante+Full-Stack;Siempre+aprendiendo+cosas+nuevas;Construyendo+mis+propios+proyectos" alt="Josthyn Diaz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1200&color=18D600&center=true&vCenter=true&width=780&lines=Estudiante+de+Ingenieria+de+Sistemas;Practicante+Full-Stack;Siempre+aprendiendo+cosas+nuevas" alt="Josthyn Diaz" />
   </a>
 </div>
 
